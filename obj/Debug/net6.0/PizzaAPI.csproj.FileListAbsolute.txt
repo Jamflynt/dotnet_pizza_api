@@ -30,3 +30,4 @@
 /Users/jamieflynt/Desktop/Learning/Blazor/PizzaAPI/obj/Debug/net6.0/PizzaAPI.pdb
 /Users/jamieflynt/Desktop/Learning/Blazor/PizzaAPI/obj/Debug/net6.0/PizzaAPI.genruntimeconfig.cache
 /Users/jamieflynt/Desktop/Learning/Blazor/PizzaAPI/obj/Debug/net6.0/ref/PizzaAPI.dll
+/Users/jamieflynt/Desktop/Learning/Blazor/PizzaAPI/obj/Debug/net6.0/PizzaAPI.sourcelink.json
